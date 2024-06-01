@@ -4,6 +4,6 @@
   "description": "test",
   "version": "0.1",
   "action": {
-    "default_popup": "test.html"
+    "default_popup": "popup/test.html"
   }
 }
