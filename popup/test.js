@@ -20,3 +20,4 @@ window.onload = () => {
 
   document.body.appendChild(list);
 };
+
